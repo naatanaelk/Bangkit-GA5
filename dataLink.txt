@@ -1,1 +1,15 @@
 https://www.kaggle.com/slothkong/10-monkey-species
+
+This dataset consist 10 species of monkey :
+
+Label,  Latin Name           
+n0   , Alouatta_palliata	 
+n1   , Erythrocebus_patas	 
+n2   , Cacajao_calvus	     
+n3   , Macaca_fuscata	     
+n4   , Cebuella_pygmea	    
+n5   , Cebus_capucinus	     
+n6   , Mico_argentatus	     
+n7   , Saimiri_sciureus	     
+n8   , Aotus_nigriceps	     
+n9   , Trachypithecus_johnii 
