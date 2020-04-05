@@ -5,6 +5,4 @@ Team Consist of:
 1. Kevin WG
 2. Wina R
 3. Natanael K
-
-### Dataset :
-https://www.kaggle.com/slothkong/10-monkey-species 
+ 
